@@ -1,4 +1,7 @@
 # Set-Up for a React Project
+
+### Resources
+- [Tailwind CSS Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
 ***
 ## Building a React App
 
